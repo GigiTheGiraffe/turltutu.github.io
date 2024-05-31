@@ -6,6 +6,6 @@
 
 ---
 
-!(copycat)[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c1MWx3cmsxODhra2liNGVyM3phZWltcno1aXlod3lzOGM4YXRsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26his6ZeMjoxEKhlS/giphy.gif]
+![copycat](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c1MWx3cmsxODhra2liNGVyM3phZWltcno1aXlod3lzOGM4YXRsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26his6ZeMjoxEKhlS/giphy.gif)
 
 
