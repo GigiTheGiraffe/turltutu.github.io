@@ -2,7 +2,11 @@
 
 - This project consist of a **site** I needed **to copy** for one of my **exercice**.    
 - Here is the [*link*] to my copy (https://gigithegiraffe.github.io/turlututu.github.io/).    
-- Here is the [*image*](./turlututu.png) to copy.   
+- Here is the [*image*](./turlututu.png) to copy.  
+
+---
+
+![Image of turlututu](./turlututu.png)
 
 ---
 
